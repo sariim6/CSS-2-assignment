@@ -1,0 +1,14 @@
+body {
+    background-color: lightslategray;
+}
+h1{
+    color: darkred;
+    background-color: rgb(241, 169, 169);
+}
+p{
+    color: lightgray;
+}
+.differ{
+    color: darkorange;
+    background-color: rgb(250, 222, 211);
+}
